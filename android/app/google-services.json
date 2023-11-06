@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "802516246868",
+    "project_id": "bps-inflasi-app-ada43",
+    "storage_bucket": "bps-inflasi-app-ada43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802516246868:android:233df7e41713a838daa8c1",
+        "android_client_info": {
+          "package_name": "com.example.bpsjayaa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZLCcUYqDFp5XeYxTivpHwJF77fIIwQEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
